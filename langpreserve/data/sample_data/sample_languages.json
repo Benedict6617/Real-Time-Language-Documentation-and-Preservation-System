@@ -1,0 +1,71 @@
+{
+  "communities": [
+    {
+      "id": "c1a7f3e0-0001-4a2b-8c3d-000000000001",
+      "name": "Tsʼúgé Valley Community Council",
+      "region": "Upper Tsʼúgé River Valley",
+      "country": "Fictional composite region (Subarctic North America style)",
+      "contact_notes": "Primary contact: community language committee, meets monthly. All recordings require council review before public/archival release.",
+      "data_sovereignty_agreement": "Community retains full ownership of all recordings and derived materials; Kaimira instance operates under a data-sharing MOU renewed annually."
+    },
+    {
+      "id": "c1a7f3e0-0002-4a2b-8c3d-000000000002",
+      "name": "Wanua Reef Islands Language Association",
+      "region": "Wanua Archipelago",
+      "country": "Fictional composite region (Austronesian/Pacific style)",
+      "contact_notes": "Works closely with the island's primary school for revitalization materials.",
+      "data_sovereignty_agreement": "Materials may be used for educational purposes within the community without further consent; academic publication requires case-by-case approval."
+    },
+    {
+      "id": "c1a7f3e0-0003-4a2b-8c3d-000000000003",
+      "name": "Kori Hills Elders' Circle",
+      "region": "Kori Hills",
+      "country": "Fictional composite region (West African tonal-language style)",
+      "contact_notes": "Elders' Circle designated two speakers as lead consultants for the documentation project.",
+      "data_sovereignty_agreement": "Tonal recordings restricted to research/educational use pending a separate commercial-use agreement."
+    }
+  ],
+  "languages": [
+    {
+      "id": "b2c8e4f1-0001-4a2b-8c3d-000000000001",
+      "name": "Tsʼúgé (sample)",
+      "glottocode": "tsug1234",
+      "iso_639_3": null,
+      "endangerment_status": "Severely endangered",
+      "estimated_speakers": 340,
+      "region": "Upper Tsʼúgé River Valley",
+      "notes": "Fictional composite language created for demonstration purposes only; phonology loosely modeled on Dene (Athabaskan) language typology (ejectives, complex verb morphology). Does not represent any real speech community.",
+      "community_id": "c1a7f3e0-0001-4a2b-8c3d-000000000001"
+    },
+    {
+      "id": "b2c8e4f1-0002-4a2b-8c3d-000000000002",
+      "name": "Wanua (sample)",
+      "glottocode": "wanu1234",
+      "iso_639_3": null,
+      "endangerment_status": "Threatened",
+      "estimated_speakers": 1200,
+      "region": "Wanua Archipelago",
+      "notes": "Fictional composite language for demonstration purposes; phonology loosely modeled on Austronesian typology (simple CV syllable structure, reduplication). Does not represent any real speech community.",
+      "community_id": "c1a7f3e0-0002-4a2b-8c3d-000000000002"
+    },
+    {
+      "id": "b2c8e4f1-0003-4a2b-8c3d-000000000003",
+      "name": "Kori (sample)",
+      "glottocode": "kori1234",
+      "iso_639_3": null,
+      "endangerment_status": "Vulnerable",
+      "estimated_speakers": 8500,
+      "region": "Kori Hills",
+      "notes": "Fictional composite language for demonstration purposes; phonology loosely modeled on West African tonal-language typology (contrastive tone, ATR vowel harmony). Does not represent any real speech community.",
+      "community_id": "c1a7f3e0-0003-4a2b-8c3d-000000000003"
+    }
+  ],
+  "orthographies": [
+    {"language_id": "b2c8e4f1-0001-4a2b-8c3d-000000000001", "name": "IPA", "kind": "ipa", "is_default": false, "description": "Phonemic IPA transcription used by the documentation team."},
+    {"language_id": "b2c8e4f1-0001-4a2b-8c3d-000000000001", "name": "Tsʼúgé Community Orthography", "kind": "practical_community", "is_default": true, "description": "Practical orthography adopted by the community council in 2019, based on the regional majority-language alphabet with added diacritics for ejectives and nasal vowels."},
+    {"language_id": "b2c8e4f1-0002-4a2b-8c3d-000000000002", "name": "IPA", "kind": "ipa", "is_default": false, "description": "Phonemic IPA transcription."},
+    {"language_id": "b2c8e4f1-0002-4a2b-8c3d-000000000002", "name": "Wanua School Orthography", "kind": "practical_community", "is_default": true, "description": "Orthography taught in the community primary school since 2015."},
+    {"language_id": "b2c8e4f1-0003-4a2b-8c3d-000000000003", "name": "IPA (with tone marks)", "kind": "ipa", "is_default": false, "description": "IPA with superscript tone marking."},
+    {"language_id": "b2c8e4f1-0003-4a2b-8c3d-000000000003", "name": "Kori Practical Orthography", "kind": "practical_community", "is_default": true, "description": "Tone marked with accent diacritics over vowels; used in community newsletters."}
+  ]
+}

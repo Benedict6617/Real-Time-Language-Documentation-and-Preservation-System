@@ -1,0 +1,52 @@
+[
+  {
+    "recording_id": "e4f0a6b3-0001-4a2b-8c3d-000000000001",
+    "line_number": 0,
+    "surface_form": "a-tsʼúgé-le",
+    "morpheme_breakdown": "a-tsʼúgé-le",
+    "gloss_line": "3SG-run-PST",
+    "free_translation": "he/she ran",
+    "pos_tags": "V",
+    "generated_automatically": false
+  },
+  {
+    "recording_id": "e4f0a6b3-0001-4a2b-8c3d-000000000001",
+    "line_number": 1,
+    "surface_form": "nde shéyu",
+    "morpheme_breakdown": "nde shéyu",
+    "gloss_line": "raven big",
+    "free_translation": "the big raven",
+    "pos_tags": "N ADJ",
+    "generated_automatically": false
+  },
+  {
+    "recording_id": "e4f0a6b3-0001-4a2b-8c3d-000000000001",
+    "line_number": 2,
+    "surface_form": "kʼóla tá",
+    "morpheme_breakdown": "kʼóla tá",
+    "gloss_line": "coyote DEM",
+    "free_translation": "that coyote",
+    "pos_tags": "N DEM",
+    "generated_automatically": false
+  },
+  {
+    "recording_id": "e4f0a6b3-0002-4a2b-8c3d-000000000002",
+    "line_number": 0,
+    "surface_form": "ni-medá",
+    "morpheme_breakdown": "ni-medá",
+    "gloss_line": "1SG-mother",
+    "free_translation": "my mother",
+    "pos_tags": "N",
+    "generated_automatically": true
+  },
+  {
+    "recording_id": "e4f0a6b3-0002-4a2b-8c3d-000000000002",
+    "line_number": 1,
+    "surface_form": "hu-tá",
+    "morpheme_breakdown": "hu-tá",
+    "gloss_line": "NEG-DEM",
+    "free_translation": "not that one",
+    "pos_tags": "PTCL",
+    "generated_automatically": true
+  }
+]

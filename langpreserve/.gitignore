@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+*.db
+
+# Node
+node_modules/
+dist/
+build/
+.vite/
+npm-debug.log*
+
+# Env / secrets
+.env
+.env.local
+*.pem
+
+# Media / large artifacts
+*.wav
+*.mp3
+data/uploads/
+data/models/*.bin
+data/models/*.onnx
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Docker
+*.log
+
+# Mobile
+mobile/.expo/
+mobile/android/app/build/
+mobile/ios/build/

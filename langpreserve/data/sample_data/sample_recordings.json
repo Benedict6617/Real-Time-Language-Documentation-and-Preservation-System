@@ -1,0 +1,62 @@
+[
+  {
+    "id": "e4f0a6b3-0001-4a2b-8c3d-000000000001",
+    "language_id": "b2c8e4f1-0001-4a2b-8c3d-000000000001",
+    "speaker_id": "d3e9f5a2-0001-4a2b-8c3d-000000000001",
+    "title": "Coyote and Raven — traditional narrative (part 1)",
+    "genre": "narrative",
+    "location_description": "Community hall, Upper Tsʼúgé Valley",
+    "recorded_at_field_date": "2025-06-02",
+    "duration_seconds": 184.5,
+    "sample_rate_hz": 44100,
+    "file_format": "wav",
+    "field_notes": "Recorded during the community's summer gathering; some background noise from wind.",
+    "captured_offline": true,
+    "consent_status": "granted"
+  },
+  {
+    "id": "e4f0a6b3-0002-4a2b-8c3d-000000000002",
+    "language_id": "b2c8e4f1-0001-4a2b-8c3d-000000000001",
+    "speaker_id": "d3e9f5a2-0002-4a2b-8c3d-000000000002",
+    "title": "Elicitation session — kinship terms",
+    "genre": "elicitation",
+    "location_description": "Speaker's home",
+    "recorded_at_field_date": "2025-06-05",
+    "duration_seconds": 612.0,
+    "sample_rate_hz": 44100,
+    "file_format": "wav",
+    "field_notes": "Structured elicitation using the kinship term questionnaire (v2).",
+    "captured_offline": true,
+    "consent_status": "granted"
+  },
+  {
+    "id": "e4f0a6b3-0003-4a2b-8c3d-000000000003",
+    "language_id": "b2c8e4f1-0002-4a2b-8c3d-000000000002",
+    "speaker_id": "d3e9f5a2-0003-4a2b-8c3d-000000000003",
+    "title": "Fishing trip conversation",
+    "genre": "conversation",
+    "location_description": "Boat dock, Wanua main island",
+    "recorded_at_field_date": "2025-07-11",
+    "duration_seconds": 342.2,
+    "sample_rate_hz": 44100,
+    "file_format": "wav",
+    "field_notes": "Casual conversation between two speakers about the day's catch; good example of natural code-switching with the regional trade language.",
+    "captured_offline": true,
+    "consent_status": "granted"
+  },
+  {
+    "id": "e4f0a6b3-0004-4a2b-8c3d-000000000004",
+    "language_id": "b2c8e4f1-0003-4a2b-8c3d-000000000003",
+    "speaker_id": "d3e9f5a2-0004-4a2b-8c3d-000000000004",
+    "title": "Tonal minimal pair elicitation",
+    "genre": "elicitation",
+    "location_description": "Kori Hills community center",
+    "recorded_at_field_date": "2025-05-20",
+    "duration_seconds": 421.7,
+    "sample_rate_hz": 48000,
+    "file_format": "wav",
+    "field_notes": "Focused session eliciting tonal minimal pairs for the phoneme inventory; speaker requested restricted distribution.",
+    "captured_offline": false,
+    "consent_status": "restricted"
+  }
+]

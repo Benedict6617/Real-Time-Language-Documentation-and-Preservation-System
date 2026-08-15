@@ -1,0 +1,56 @@
+[
+  {
+    "recording_id": "e4f0a6b3-0001-4a2b-8c3d-000000000001",
+    "text": "a-tsʼúgé-le nde shéyu kʼóla tá medá hun sí a-tsʼúgé-le",
+    "source": "community_verified",
+    "asr_model_version": "mock-asr-v0 (deterministic, offline)",
+    "confidence": 0.91,
+    "is_final": true,
+    "segments": [
+      {"start_ms": 0, "end_ms": 1200, "text": "a-tsʼúgé-le", "confidence": 0.94},
+      {"start_ms": 1250, "end_ms": 2100, "text": "nde shéyu", "confidence": 0.88},
+      {"start_ms": 2150, "end_ms": 3400, "text": "kʼóla tá", "confidence": 0.90},
+      {"start_ms": 3450, "end_ms": 4600, "text": "medá hun", "confidence": 0.89},
+      {"start_ms": 4650, "end_ms": 5300, "text": "sí a-tsʼúgé-le", "confidence": 0.93}
+    ]
+  },
+  {
+    "recording_id": "e4f0a6b3-0002-4a2b-8c3d-000000000002",
+    "text": "ni-medá hu-tá nde-sí",
+    "source": "human_corrected",
+    "asr_model_version": "mock-asr-v0 (deterministic, offline)",
+    "confidence": 0.82,
+    "is_final": false,
+    "segments": [
+      {"start_ms": 0, "end_ms": 900, "text": "ni-medá", "confidence": 0.85},
+      {"start_ms": 950, "end_ms": 1700, "text": "hu-tá", "confidence": 0.79},
+      {"start_ms": 1750, "end_ms": 2500, "text": "nde-sí", "confidence": 0.82}
+    ]
+  },
+  {
+    "recording_id": "e4f0a6b3-0003-4a2b-8c3d-000000000003",
+    "text": "waka loi tuna mani waka",
+    "source": "community_verified",
+    "asr_model_version": "mock-asr-v0 (deterministic, offline)",
+    "confidence": 0.95,
+    "is_final": true,
+    "segments": [
+      {"start_ms": 0, "end_ms": 800, "text": "waka loi", "confidence": 0.96},
+      {"start_ms": 850, "end_ms": 1600, "text": "tuna mani", "confidence": 0.94},
+      {"start_ms": 1650, "end_ms": 2200, "text": "waka", "confidence": 0.95}
+    ]
+  },
+  {
+    "recording_id": "e4f0a6b3-0004-4a2b-8c3d-000000000004",
+    "text": "bá bâ bà",
+    "source": "asr_draft",
+    "asr_model_version": "mock-asr-v0 (deterministic, offline)",
+    "confidence": 0.63,
+    "is_final": false,
+    "segments": [
+      {"start_ms": 0, "end_ms": 500, "text": "bá", "confidence": 0.60},
+      {"start_ms": 550, "end_ms": 1000, "text": "bâ", "confidence": 0.65},
+      {"start_ms": 1050, "end_ms": 1500, "text": "bà", "confidence": 0.64}
+    ]
+  }
+]

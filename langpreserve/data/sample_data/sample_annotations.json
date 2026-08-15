@@ -1,0 +1,37 @@
+[
+  {
+    "recording_id": "e4f0a6b3-0001-4a2b-8c3d-000000000001",
+    "annotation_type": "cultural_note",
+    "body": "This telling of the Coyote and Raven story is the version told at summer gatherings; there is a shorter winter version with a different ending that should be recorded separately with the elders' permission.",
+    "upvotes": 6,
+    "resolved": true
+  },
+  {
+    "recording_id": "e4f0a6b3-0001-4a2b-8c3d-000000000001",
+    "annotation_type": "alternate_spelling",
+    "body": "Some community members spell 'shéyu' as 'sheyu' without the accent in informal writing (e.g. text messages) — worth noting both forms in the community dictionary.",
+    "upvotes": 3,
+    "resolved": false
+  },
+  {
+    "recording_id": "e4f0a6b3-0002-4a2b-8c3d-000000000002",
+    "annotation_type": "correction",
+    "body": "Second segment should be 'hu-tâ' not 'hu-tá' — the vowel here is mid tone in this speaker's dialect, ASR draft mis-marked it as high.",
+    "upvotes": 2,
+    "resolved": true
+  },
+  {
+    "recording_id": "e4f0a6b3-0003-4a2b-8c3d-000000000003",
+    "annotation_type": "translation_suggestion",
+    "body": "'waka loi' is more naturally translated as 'let's go' in this conversational context rather than a literal 'we go' — matches how it's used at the start of the recording.",
+    "upvotes": 4,
+    "resolved": false
+  },
+  {
+    "recording_id": "e4f0a6b3-0004-4a2b-8c3d-000000000004",
+    "annotation_type": "flag_for_review",
+    "body": "ASR confidence is low on this whole session (tonal minimal pairs are hard for the mock/base model to distinguish) — needs full manual re-transcription by a linguist before any export.",
+    "upvotes": 5,
+    "resolved": false
+  }
+]
